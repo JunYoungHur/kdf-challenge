@@ -1,6 +1,6 @@
 # KDF: Korean Deepfake-voice Detection Challenge
 
-Speech Recognition Challenge 2026 (아주대학교 음성인식) — Team_JunYoungHur_202126881
+Speech Recognition Challenge 2026 (아주대학교 음성인식) — Team 17, 허준영 (202126881)
 
 AI가 합성한 한국어 목소리를 진짜 사람 목소리와 구별하는 챌린지입니다.
 참가자는 녹음 하나를 받아 **가짜일수록 높은 점수**를 내는 시스템을 만들고,
