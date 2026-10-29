@@ -1,0 +1,10 @@
+numpy
+soundfile
+librosa
+torch
+torchaudio
+datasets
+transformers
+vocos
+scikit-learn
+tqdm

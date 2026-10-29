@@ -1,0 +1,12 @@
+{
+ "n_eval": 1371,
+ "missing": 0,
+ "EER": 0.5054704595185996,
+ "EER_by_generator": {
+  "bigvgan": 0.49452954048140046,
+  "vocos": 0.5076586433260394
+ },
+ "EER_seen": 0.5076586433260394,
+ "EER_unseen": 0.49452954048140046,
+ "system": "B0 shortcut control"
+}

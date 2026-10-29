@@ -1,0 +1,12 @@
+{
+ "n_eval": 1371,
+ "missing": 0,
+ "EER": 0.3347921225382932,
+ "EER_by_generator": {
+  "bigvgan": 0.5010940919037199,
+  "vocos": 0.09409190371991247
+ },
+ "EER_seen": 0.09409190371991247,
+ "EER_unseen": 0.5010940919037199,
+ "system": "B1 AASIST zero-shot"
+}

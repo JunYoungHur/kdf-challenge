@@ -1,0 +1,8 @@
+.venv/
+kdf_data/
+kdf_eval_v1/
+kdf_eval_v1.zip
+third_party/aasist/
+third_party/BigVGAN/
+__pycache__/
+*.pyc
